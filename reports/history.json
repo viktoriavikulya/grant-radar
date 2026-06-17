@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-06-17",
+    "timestamp": "2026-06-17T18:13:58.765Z",
+    "reportFile": "report-2026-06-17.md",
+    "topSignals": [
+      {
+        "name": "arkadiyt/bounty-targets-data",
+        "stars": 3782,
+        "topic": "bounty"
+      },
+      {
+        "name": "xevrion-v2/agent-playground",
+        "stars": 179,
+        "topic": "bounty"
+      },
+      {
+        "name": "NA-MIC/ProjectWeek",
+        "stars": 93,
+        "topic": "hackathon"
+      },
+      {
+        "name": "Spartan-71/Discord-Hackathon-Bot",
+        "stars": 22,
+        "topic": "devpost"
+      },
+      {
+        "name": "yeheskieltame/claudelance",
+        "stars": 4,
+        "topic": "hackathon"
+      }
+    ],
+    "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1"
+  }
+]

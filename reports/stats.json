@@ -1,0 +1,58 @@
+{
+  "lastUpdated": "2026-06-17T18:13:58.765Z",
+  "totalReports": 1,
+  "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
+  "latestDate": "2026-06-17",
+  "topSignals": [
+    {
+      "name": "bounty-targets-data",
+      "stars": 3782,
+      "topic": "bounty"
+    },
+    {
+      "name": "agent-playground",
+      "stars": 179,
+      "topic": "bounty"
+    },
+    {
+      "name": "ProjectWeek",
+      "stars": 93,
+      "topic": "hackathon"
+    },
+    {
+      "name": "Discord-Hackathon-Bot",
+      "stars": 22,
+      "topic": "devpost"
+    },
+    {
+      "name": "claudelance",
+      "stars": 4,
+      "topic": "hackathon"
+    },
+    {
+      "name": "core-backend",
+      "stars": 4,
+      "topic": "hackathon-2026"
+    },
+    {
+      "name": "TentOfTrials",
+      "stars": 3,
+      "topic": "bounty"
+    },
+    {
+      "name": "zeroeye",
+      "stars": 2,
+      "topic": "bounty"
+    },
+    {
+      "name": "nss-platform",
+      "stars": 0,
+      "topic": "hackathon"
+    },
+    {
+      "name": "accessory-boutique-animations",
+      "stars": 0,
+      "topic": "hackathon"
+    }
+  ]
+}
