@@ -1,0 +1,14 @@
+{
+  "name": "grant-radar",
+  "version": "1.0.0",
+  "description": "Daily AI digest of open grants, hackathons & bounties for developers",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-fetch": "2.7.0"
+  },
+  "author": "viktoriavikulya",
+  "license": "MIT"
+}
