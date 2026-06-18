@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-18T11:54:23.769Z",
-  "totalReports": 2,
+  "lastUpdated": "2026-06-18T12:21:40.191Z",
+  "totalReports": 3,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
   "latestDate": "2026-06-18",
   "topSignals": [
@@ -10,9 +10,9 @@
       "topic": "bounty"
     },
     {
-      "name": "agent-playground",
-      "stars": 178,
-      "topic": "bounty"
+      "name": "infosec-events",
+      "stars": 183,
+      "topic": "hackathon"
     },
     {
       "name": "dn-institute",
@@ -35,22 +35,22 @@
       "topic": "hackathon-2026"
     },
     {
+      "name": "capletfi",
+      "stars": 1,
+      "topic": "hackathon"
+    },
+    {
       "name": "web3-bug-bounty-hunting-ai-skills",
       "stars": 1,
       "topic": "gitcoin"
     },
     {
-      "name": "opportunici",
+      "name": "community-spirit",
       "stars": 0,
       "topic": "hackathon"
     },
     {
-      "name": "agent-allowance-vault",
-      "stars": 0,
-      "topic": "hackathon"
-    },
-    {
-      "name": "pharos-defi-suite",
+      "name": "Narravision",
       "stars": 0,
       "topic": "hackathon"
     }
