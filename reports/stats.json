@@ -1,17 +1,27 @@
 {
-  "lastUpdated": "2026-06-18T12:21:40.191Z",
-  "totalReports": 3,
+  "lastUpdated": "2026-06-19T12:12:27.137Z",
+  "totalReports": 4,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
-  "latestDate": "2026-06-18",
+  "latestDate": "2026-06-19",
   "topSignals": [
     {
-      "name": "bounty-targets-data",
-      "stars": 3781,
+      "name": "PayloadsAllTheThings",
+      "stars": 78520,
       "topic": "bounty"
     },
     {
-      "name": "infosec-events",
-      "stars": 183,
+      "name": "bounty-targets-data",
+      "stars": 3782,
+      "topic": "bounty"
+    },
+    {
+      "name": "agent-playground",
+      "stars": 179,
+      "topic": "bounty"
+    },
+    {
+      "name": "RailMind-AI",
+      "stars": 50,
       "topic": "hackathon"
     },
     {
@@ -35,24 +45,14 @@
       "topic": "hackathon-2026"
     },
     {
-      "name": "capletfi",
-      "stars": 1,
+      "name": "gemma4_comp",
+      "stars": 2,
       "topic": "hackathon"
     },
     {
       "name": "web3-bug-bounty-hunting-ai-skills",
       "stars": 1,
       "topic": "gitcoin"
-    },
-    {
-      "name": "community-spirit",
-      "stars": 0,
-      "topic": "hackathon"
-    },
-    {
-      "name": "Narravision",
-      "stars": 0,
-      "topic": "hackathon"
     }
   ]
 }

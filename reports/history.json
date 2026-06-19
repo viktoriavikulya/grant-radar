@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026-06-19",
+    "timestamp": "2026-06-19T12:12:27.137Z",
+    "reportFile": "report-2026-06-19.md",
+    "topSignals": [
+      {
+        "name": "swisskyrepo/PayloadsAllTheThings",
+        "stars": 78520,
+        "topic": "bounty"
+      },
+      {
+        "name": "arkadiyt/bounty-targets-data",
+        "stars": 3782,
+        "topic": "bounty"
+      },
+      {
+        "name": "xevrion-v2/agent-playground",
+        "stars": 179,
+        "topic": "bounty"
+      },
+      {
+        "name": "Abishek-kk/RailMind-AI",
+        "stars": 50,
+        "topic": "hackathon"
+      },
+      {
+        "name": "1712n/dn-institute",
+        "stars": 45,
+        "topic": "grant"
+      }
+    ],
+    "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1"
+  },
+  {
     "date": "2026-06-18",
     "timestamp": "2026-06-18T12:21:40.191Z",
     "reportFile": "report-2026-06-18.md",
