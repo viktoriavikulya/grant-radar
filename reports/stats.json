@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T10:36:14.289Z",
-  "totalReports": 6,
+  "lastUpdated": "2026-06-20T11:13:37.441Z",
+  "totalReports": 7,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
   "latestDate": "2026-06-20",
   "topSignals": [
@@ -40,17 +40,17 @@
       "topic": "hackathon-2026"
     },
     {
-      "name": "gravitynow-angular",
-      "stars": 3,
-      "topic": "hackathon"
-    },
-    {
       "name": "web3-bug-bounty-hunting-ai-skills",
       "stars": 1,
       "topic": "gitcoin"
     },
     {
-      "name": "belvedere",
+      "name": "intelligent-candidate-discovery",
+      "stars": 0,
+      "topic": "hackathon"
+    },
+    {
+      "name": "AI-Concrete-Mix-Optimization",
       "stars": 0,
       "topic": "hackathon"
     }

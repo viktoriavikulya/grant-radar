@@ -1,6 +1,39 @@
 [
   {
     "date": "2026-06-20",
+    "timestamp": "2026-06-20T11:13:37.441Z",
+    "reportFile": "report-2026-06-20.md",
+    "topSignals": [
+      {
+        "name": "arkadiyt/bounty-targets-data",
+        "stars": 3781,
+        "topic": "bounty"
+      },
+      {
+        "name": "xevrion-v2/agent-playground",
+        "stars": 180,
+        "topic": "bounty"
+      },
+      {
+        "name": "1712n/dn-institute",
+        "stars": 45,
+        "topic": "grant"
+      },
+      {
+        "name": "Spartan-71/Discord-Hackathon-Bot",
+        "stars": 22,
+        "topic": "devpost"
+      },
+      {
+        "name": "liminalshruti/liminal-agents",
+        "stars": 9,
+        "topic": "hackathon-2026"
+      }
+    ],
+    "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1"
+  },
+  {
+    "date": "2026-06-20",
     "timestamp": "2026-06-20T10:36:14.289Z",
     "reportFile": "report-2026-06-20.md",
     "topSignals": [
