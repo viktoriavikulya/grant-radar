@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-19T12:43:44.242Z",
-  "totalReports": 5,
+  "lastUpdated": "2026-06-20T10:36:14.289Z",
+  "totalReports": 6,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
-  "latestDate": "2026-06-19",
+  "latestDate": "2026-06-20",
   "topSignals": [
     {
-      "name": "PayloadsAllTheThings",
-      "stars": 78522,
+      "name": "bounty-targets-data",
+      "stars": 3781,
       "topic": "bounty"
     },
     {
-      "name": "bounty-targets-data",
-      "stars": 3782,
+      "name": "agent-playground",
+      "stars": 180,
       "topic": "bounty"
     },
     {
@@ -30,9 +30,19 @@
       "topic": "hackathon-2026"
     },
     {
+      "name": "Margi",
+      "stars": 5,
+      "topic": "hackathon-2026"
+    },
+    {
       "name": "core-backend",
       "stars": 4,
       "topic": "hackathon-2026"
+    },
+    {
+      "name": "gravitynow-angular",
+      "stars": 3,
+      "topic": "hackathon"
     },
     {
       "name": "web3-bug-bounty-hunting-ai-skills",
@@ -40,17 +50,7 @@
       "topic": "gitcoin"
     },
     {
-      "name": "sangam-band",
-      "stars": 0,
-      "topic": "hackathon"
-    },
-    {
-      "name": "Narravision",
-      "stars": 0,
-      "topic": "hackathon"
-    },
-    {
-      "name": "ShieldSuite",
+      "name": "belvedere",
       "stars": 0,
       "topic": "hackathon"
     }
