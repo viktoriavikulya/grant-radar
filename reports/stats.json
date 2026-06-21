@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-21T11:20:16.032Z",
-  "totalReports": 8,
+  "lastUpdated": "2026-06-21T11:42:42.811Z",
+  "totalReports": 9,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
   "latestDate": "2026-06-21",
   "topSignals": [
@@ -40,13 +40,13 @@
       "topic": "hackathon-2026"
     },
     {
-      "name": "capletfi",
-      "stars": 1,
+      "name": "turing-arena",
+      "stars": 2,
       "topic": "hackathon"
     },
     {
-      "name": "diglett",
-      "stars": 1,
+      "name": "music-from-drawings-pro",
+      "stars": 2,
       "topic": "hackathon"
     },
     {
