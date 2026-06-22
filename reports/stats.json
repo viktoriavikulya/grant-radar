@@ -1,17 +1,22 @@
 {
-  "lastUpdated": "2026-06-21T11:42:42.811Z",
-  "totalReports": 9,
+  "lastUpdated": "2026-06-22T13:39:36.234Z",
+  "totalReports": 10,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
-  "latestDate": "2026-06-21",
+  "latestDate": "2026-06-22",
   "topSignals": [
     {
+      "name": "hackathon-starter",
+      "stars": 35229,
+      "topic": "hackathon"
+    },
+    {
       "name": "bounty-targets-data",
-      "stars": 3785,
+      "stars": 3794,
       "topic": "bounty"
     },
     {
       "name": "agent-playground",
-      "stars": 179,
+      "stars": 182,
       "topic": "bounty"
     },
     {
@@ -25,11 +30,6 @@
       "topic": "devpost"
     },
     {
-      "name": "liminal-agents",
-      "stars": 9,
-      "topic": "hackathon-2026"
-    },
-    {
       "name": "Margi",
       "stars": 5,
       "topic": "hackathon-2026"
@@ -40,19 +40,19 @@
       "topic": "hackathon-2026"
     },
     {
-      "name": "turing-arena",
-      "stars": 2,
-      "topic": "hackathon"
-    },
-    {
-      "name": "music-from-drawings-pro",
-      "stars": 2,
-      "topic": "hackathon"
-    },
-    {
       "name": "web3-bug-bounty-hunting-ai-skills",
       "stars": 1,
       "topic": "gitcoin"
+    },
+    {
+      "name": "NeuroSymbolic-Insurance-Evaluator",
+      "stars": 0,
+      "topic": "hackathon"
+    },
+    {
+      "name": "mnemosyne",
+      "stars": 0,
+      "topic": "hackathon"
     }
   ]
 }
