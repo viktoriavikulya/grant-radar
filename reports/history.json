@@ -1,6 +1,39 @@
 [
   {
     "date": "2026-06-22",
+    "timestamp": "2026-06-22T14:34:11.029Z",
+    "reportFile": "report-2026-06-22.md",
+    "topSignals": [
+      {
+        "name": "arkadiyt/bounty-targets-data",
+        "stars": 3794,
+        "topic": "bounty"
+      },
+      {
+        "name": "xevrion-v2/agent-playground",
+        "stars": 182,
+        "topic": "bounty"
+      },
+      {
+        "name": "1712n/dn-institute",
+        "stars": 45,
+        "topic": "grant"
+      },
+      {
+        "name": "Spartan-71/Discord-Hackathon-Bot",
+        "stars": 22,
+        "topic": "devpost"
+      },
+      {
+        "name": "team-to-be-found/Clawhunt-profile",
+        "stars": 11,
+        "topic": "hackathon"
+      }
+    ],
+    "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1"
+  },
+  {
+    "date": "2026-06-22",
     "timestamp": "2026-06-22T13:39:36.234Z",
     "reportFile": "report-2026-06-22.md",
     "topSignals": [
