@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-22T14:34:11.029Z",
-  "totalReports": 11,
+  "lastUpdated": "2026-06-23T11:22:53.724Z",
+  "totalReports": 12,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
-  "latestDate": "2026-06-22",
+  "latestDate": "2026-06-23",
   "topSignals": [
     {
       "name": "bounty-targets-data",
@@ -11,7 +11,7 @@
     },
     {
       "name": "agent-playground",
-      "stars": 182,
+      "stars": 184,
       "topic": "bounty"
     },
     {
@@ -25,23 +25,13 @@
       "topic": "devpost"
     },
     {
-      "name": "Clawhunt-profile",
-      "stars": 11,
-      "topic": "hackathon"
-    },
-    {
       "name": "Margi",
       "stars": 5,
       "topic": "hackathon-2026"
     },
     {
-      "name": "core-backend",
-      "stars": 4,
-      "topic": "hackathon-2026"
-    },
-    {
-      "name": "gemma4_comp",
-      "stars": 3,
+      "name": "A-to-Z-Resources-for-Students",
+      "stars": 1,
       "topic": "hackathon"
     },
     {
@@ -50,7 +40,17 @@
       "topic": "gitcoin"
     },
     {
-      "name": "solgov",
+      "name": "hackathon-backend",
+      "stars": 0,
+      "topic": "hackathon"
+    },
+    {
+      "name": "Hackademia",
+      "stars": 0,
+      "topic": "hackathon"
+    },
+    {
+      "name": "sonara",
       "stars": 0,
       "topic": "hackathon"
     }
