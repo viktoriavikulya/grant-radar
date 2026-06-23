@@ -1,17 +1,12 @@
 {
-  "lastUpdated": "2026-06-23T11:22:53.724Z",
-  "totalReports": 12,
+  "lastUpdated": "2026-06-23T11:57:27.643Z",
+  "totalReports": 13,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
   "latestDate": "2026-06-23",
   "topSignals": [
     {
       "name": "bounty-targets-data",
       "stars": 3794,
-      "topic": "bounty"
-    },
-    {
-      "name": "agent-playground",
-      "stars": 184,
       "topic": "bounty"
     },
     {
@@ -30,7 +25,17 @@
       "topic": "hackathon-2026"
     },
     {
-      "name": "A-to-Z-Resources-for-Students",
+      "name": "LLM-PROMPT-INJECTION-PAYLOAD-S",
+      "stars": 4,
+      "topic": "bounty"
+    },
+    {
+      "name": "turing-arena",
+      "stars": 2,
+      "topic": "hackathon"
+    },
+    {
+      "name": "solana-toolbox",
       "stars": 1,
       "topic": "hackathon"
     },
@@ -40,12 +45,7 @@
       "topic": "gitcoin"
     },
     {
-      "name": "hackathon-backend",
-      "stars": 0,
-      "topic": "hackathon"
-    },
-    {
-      "name": "Hackademia",
+      "name": "ShieldSuite",
       "stars": 0,
       "topic": "hackathon"
     },
