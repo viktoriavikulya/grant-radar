@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026-06-24",
+    "timestamp": "2026-06-24T10:56:06.776Z",
+    "reportFile": "report-2026-06-24.md",
+    "topSignals": [
+      {
+        "name": "arkadiyt/bounty-targets-data",
+        "stars": 3795,
+        "topic": "bounty"
+      },
+      {
+        "name": "Spartan-71/Discord-Hackathon-Bot",
+        "stars": 22,
+        "topic": "devpost"
+      },
+      {
+        "name": "Stormynubee/Margi",
+        "stars": 5,
+        "topic": "hackathon-2026"
+      },
+      {
+        "name": "satrijan/LLM-PROMPT-INJECTION-PAYLOAD-S",
+        "stars": 4,
+        "topic": "bounty"
+      },
+      {
+        "name": "CoreStudio2/seller-ops",
+        "stars": 2,
+        "topic": "hackathon"
+      }
+    ],
+    "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1"
+  },
+  {
     "date": "2026-06-23",
     "timestamp": "2026-06-23T11:57:27.643Z",
     "reportFile": "report-2026-06-23.md",
