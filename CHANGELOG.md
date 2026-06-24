@@ -1,5 +1,5 @@
 # Changelog
 
-Last updated: 2026-06-19T01:15:40.106Z
+Last updated: 2026-06-24T10:29:34.837Z
 
-- docs: document all environment variables with default values
+- docs: add sequence diagram for authentication flow
