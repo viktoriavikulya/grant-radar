@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-24T10:56:06.776Z",
-  "totalReports": 14,
+  "lastUpdated": "2026-06-24T11:42:28.531Z",
+  "totalReports": 15,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
   "latestDate": "2026-06-24",
   "topSignals": [
@@ -20,24 +20,14 @@
       "topic": "hackathon-2026"
     },
     {
-      "name": "LLM-PROMPT-INJECTION-PAYLOAD-S",
-      "stars": 4,
-      "topic": "bounty"
-    },
-    {
-      "name": "seller-ops",
+      "name": "specdd",
       "stars": 2,
       "topic": "hackathon"
     },
     {
-      "name": "verifylive",
+      "name": "bounty-radar",
       "stars": 1,
-      "topic": "hackathon"
-    },
-    {
-      "name": "capletfi",
-      "stars": 1,
-      "topic": "hackathon"
+      "topic": "bounty"
     },
     {
       "name": "web3-bug-bounty-hunting-ai-skills",
@@ -45,7 +35,17 @@
       "topic": "gitcoin"
     },
     {
-      "name": "Decentralized-Application-Development",
+      "name": "harness-starter-kit",
+      "stars": 0,
+      "topic": "hackathon"
+    },
+    {
+      "name": "SkillOpt",
+      "stars": 0,
+      "topic": "hackathon"
+    },
+    {
+      "name": "KinetiQ",
       "stars": 0,
       "topic": "hackathon"
     },

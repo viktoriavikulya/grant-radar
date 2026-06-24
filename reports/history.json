@@ -1,6 +1,39 @@
 [
   {
     "date": "2026-06-24",
+    "timestamp": "2026-06-24T11:42:28.531Z",
+    "reportFile": "report-2026-06-24.md",
+    "topSignals": [
+      {
+        "name": "arkadiyt/bounty-targets-data",
+        "stars": 3795,
+        "topic": "bounty"
+      },
+      {
+        "name": "Spartan-71/Discord-Hackathon-Bot",
+        "stars": 22,
+        "topic": "devpost"
+      },
+      {
+        "name": "Stormynubee/Margi",
+        "stars": 5,
+        "topic": "hackathon-2026"
+      },
+      {
+        "name": "mnyok9939/specdd",
+        "stars": 2,
+        "topic": "hackathon"
+      },
+      {
+        "name": "go165/bounty-radar",
+        "stars": 1,
+        "topic": "bounty"
+      }
+    ],
+    "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1"
+  },
+  {
+    "date": "2026-06-24",
     "timestamp": "2026-06-24T10:56:06.776Z",
     "reportFile": "report-2026-06-24.md",
     "topSignals": [
