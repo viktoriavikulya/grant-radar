@@ -1,12 +1,17 @@
 {
-  "lastUpdated": "2026-06-24T11:42:28.531Z",
-  "totalReports": 15,
+  "lastUpdated": "2026-06-25T10:47:21.020Z",
+  "totalReports": 16,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
-  "latestDate": "2026-06-24",
+  "latestDate": "2026-06-25",
   "topSignals": [
     {
       "name": "bounty-targets-data",
-      "stars": 3795,
+      "stars": 3797,
+      "topic": "bounty"
+    },
+    {
+      "name": "agent-playground",
+      "stars": 186,
       "topic": "bounty"
     },
     {
@@ -15,18 +20,13 @@
       "topic": "devpost"
     },
     {
-      "name": "Margi",
-      "stars": 5,
+      "name": "liminal-agents",
+      "stars": 9,
       "topic": "hackathon-2026"
     },
     {
-      "name": "specdd",
-      "stars": 2,
-      "topic": "hackathon"
-    },
-    {
-      "name": "bounty-radar",
-      "stars": 1,
+      "name": "LLM-PROMPT-INJECTION-PAYLOAD-S",
+      "stars": 4,
       "topic": "bounty"
     },
     {
@@ -35,24 +35,24 @@
       "topic": "gitcoin"
     },
     {
-      "name": "harness-starter-kit",
+      "name": "umineko_web_asm",
+      "stars": 1,
+      "topic": "gitcoin"
+    },
+    {
+      "name": "hackaton-cubepath-2026",
       "stars": 0,
       "topic": "hackathon"
     },
     {
-      "name": "SkillOpt",
+      "name": "CopilotStudentSonnet",
       "stars": 0,
       "topic": "hackathon"
     },
     {
-      "name": "KinetiQ",
+      "name": "DevLog",
       "stars": 0,
       "topic": "hackathon"
-    },
-    {
-      "name": "291238ac-research-university-grant-appl",
-      "stars": 0,
-      "topic": "grant"
     }
   ]
 }
