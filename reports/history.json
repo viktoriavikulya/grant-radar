@@ -1,6 +1,39 @@
 [
   {
     "date": "2026-07-01",
+    "timestamp": "2026-07-01T11:57:28.574Z",
+    "reportFile": "report-2026-07-01.md",
+    "topSignals": [
+      {
+        "name": "arkadiyt/bounty-targets-data",
+        "stars": 3808,
+        "topic": "bounty"
+      },
+      {
+        "name": "xevrion-v2/agent-playground",
+        "stars": 224,
+        "topic": "bounty"
+      },
+      {
+        "name": "Jose-Gael-Cruz-Lopez/hackhq",
+        "stars": 30,
+        "topic": "devpost"
+      },
+      {
+        "name": "Sparta-lang/lisaloop-sdk",
+        "stars": 2,
+        "topic": "hackathon"
+      },
+      {
+        "name": "aitankfish/pnl",
+        "stars": 2,
+        "topic": "hackathon-2026"
+      }
+    ],
+    "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1"
+  },
+  {
+    "date": "2026-07-01",
     "timestamp": "2026-07-01T11:28:39.921Z",
     "reportFile": "report-2026-07-01.md",
     "topSignals": [

@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-07-01T11:28:39.921Z",
-  "totalReports": 17,
+  "lastUpdated": "2026-07-01T11:57:28.574Z",
+  "totalReports": 18,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
   "latestDate": "2026-07-01",
   "topSignals": [
     {
       "name": "bounty-targets-data",
-      "stars": 3807,
+      "stars": 3808,
       "topic": "bounty"
     },
     {
@@ -20,13 +20,8 @@
       "topic": "devpost"
     },
     {
-      "name": "nextjs-starter-template",
-      "stars": 5,
-      "topic": "hackathon"
-    },
-    {
-      "name": "youtube-flashcards",
-      "stars": 3,
+      "name": "lisaloop-sdk",
+      "stars": 2,
       "topic": "hackathon"
     },
     {
@@ -35,9 +30,9 @@
       "topic": "hackathon-2026"
     },
     {
-      "name": "web3-bug-bounty-hunting-ai-skills",
+      "name": "CataLogger",
       "stars": 1,
-      "topic": "gitcoin"
+      "topic": "hackathon"
     },
     {
       "name": "umineko_web_asm",
@@ -45,12 +40,17 @@
       "topic": "gitcoin"
     },
     {
-      "name": "adaptive-liquidity-orchestrator",
+      "name": "web3-bug-bounty-hunting-ai-skills",
+      "stars": 1,
+      "topic": "gitcoin"
+    },
+    {
+      "name": "NullByte",
       "stars": 0,
       "topic": "hackathon"
     },
     {
-      "name": "marketplace-mapper",
+      "name": "metabolic-care-assistant",
       "stars": 0,
       "topic": "hackathon"
     }
