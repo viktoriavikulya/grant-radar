@@ -1,33 +1,38 @@
 {
-  "lastUpdated": "2026-06-25T10:47:21.020Z",
-  "totalReports": 16,
+  "lastUpdated": "2026-07-01T11:28:39.921Z",
+  "totalReports": 17,
   "wallet": "0xd2741f2846b62B63568aE9398b2522409e7051F1",
-  "latestDate": "2026-06-25",
+  "latestDate": "2026-07-01",
   "topSignals": [
     {
       "name": "bounty-targets-data",
-      "stars": 3797,
+      "stars": 3807,
       "topic": "bounty"
     },
     {
       "name": "agent-playground",
-      "stars": 186,
+      "stars": 224,
       "topic": "bounty"
     },
     {
-      "name": "Discord-Hackathon-Bot",
-      "stars": 22,
+      "name": "hackhq",
+      "stars": 30,
       "topic": "devpost"
     },
     {
-      "name": "liminal-agents",
-      "stars": 9,
-      "topic": "hackathon-2026"
+      "name": "nextjs-starter-template",
+      "stars": 5,
+      "topic": "hackathon"
     },
     {
-      "name": "LLM-PROMPT-INJECTION-PAYLOAD-S",
-      "stars": 4,
-      "topic": "bounty"
+      "name": "youtube-flashcards",
+      "stars": 3,
+      "topic": "hackathon"
+    },
+    {
+      "name": "pnl",
+      "stars": 2,
+      "topic": "hackathon-2026"
     },
     {
       "name": "web3-bug-bounty-hunting-ai-skills",
@@ -40,17 +45,12 @@
       "topic": "gitcoin"
     },
     {
-      "name": "hackaton-cubepath-2026",
+      "name": "adaptive-liquidity-orchestrator",
       "stars": 0,
       "topic": "hackathon"
     },
     {
-      "name": "CopilotStudentSonnet",
-      "stars": 0,
-      "topic": "hackathon"
-    },
-    {
-      "name": "DevLog",
+      "name": "marketplace-mapper",
       "stars": 0,
       "topic": "hackathon"
     }
