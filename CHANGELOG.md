@@ -1,5 +1,5 @@
 # Changelog
 
-Last updated: 2026-06-19T01:15:40.106Z
+Last updated: 2026-07-11T00:26:47.251Z
 
-- docs: document all environment variables with default values
+- docs: rewrite quickstart guide with working code examples
