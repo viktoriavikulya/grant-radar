@@ -1,5 +1,5 @@
 # Changelog
 
-Last updated: 2026-06-19T01:15:40.106Z
+Last updated: 2026-07-17T01:34:40.427Z
 
 - docs: document all environment variables with default values
