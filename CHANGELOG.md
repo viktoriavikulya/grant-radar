@@ -1,5 +1,5 @@
 # Changelog
 
-Last updated: 2026-06-19T01:15:40.106Z
+Last updated: 2026-07-19T22:51:53.030Z
 
-- docs: document all environment variables with default values
+- docs: add troubleshooting section for common setup errors
